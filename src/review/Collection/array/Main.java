@@ -133,6 +133,42 @@ public class Main {
 
         System.out.println("최소값 : " + minimum);
 
-        System.out.println("최대1값 : " + maximum);
+        System.out.println("최대값 : " + maximum);
+
+
+        //===========================================================================
+        // 배열 뒤집기 (프로그래머스)
+        int[] num_list = {1, 2, 3, 4, 5};
+
+        int[] result = new int[num_list.length];
+
+        for(int i = num_list.length-1; i >= 0; i--){
+            result[num_list.length-i-1] = num_list[i];
+        }
+
+        for(int i : result){
+            System.out.println(i);
+        }
+
+        // 문자열 뒤집기
+        String my_string = "jaron";
+        String result1 = "";
+        for(int i = my_string.length()-1; i>=0; i--){
+            result1 = result1 + my_string.charAt(i);
+        }
+
+        System.out.println(result1);
+
+        // 배열 원소의 길이
+        String[] strlist = {"We", "are", "the", "world!"};
+        int[] lengthArray = new int[strlist.length];
+
+        for(int i = 0; i < strlist.length; i++){
+            lengthArray[i] = strlist[i].length();
+        }
+
+        for (int i : lengthArray){
+            System.out.print(i + " ");
+        }
     }
 }

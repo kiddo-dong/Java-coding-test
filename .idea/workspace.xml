@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31278443-9ca8-43d4-8b12-1904ed3f3558" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/gptQuiz/array/Diagonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gptQuiz/array/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review/Collection/loop/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/review/Collection/secdemantionArray/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review/Collection/secdemantionArray/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodingTest.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -35,25 +39,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/donghyun/바탕화면/CodingTest&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/home/donghyun/바탕화면/JavaCodingTest/CodingTest/src/Main.java&quot;,
-    &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.boxbox.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.review.Collection.Array.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.review.Collection.array.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.review.Collection.inputoutput.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.review.Collection.list.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.review.Collection.secdemantionArray.Main.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/donghyun/바탕화면/CodingTest",
+    "onboarding.tips.debug.path": "/home/donghyun/바탕화면/JavaCodingTest/CodingTest/src/Main.java",
+    "애플리케이션.Main.executor": "Run",
+    "애플리케이션.boxbox.Main.executor": "Run",
+    "애플리케이션.gptQuiz.array.Main.executor": "Run",
+    "애플리케이션.review.Collection.Array.Main.executor": "Run",
+    "애플리케이션.review.Collection.array.Main.executor": "Run",
+    "애플리케이션.review.Collection.inputoutput.Main.executor": "Run",
+    "애플리케이션.review.Collection.list.Main.executor": "Run",
+    "애플리케이션.review.Collection.loop.Main.executor": "Run",
+    "애플리케이션.review.Collection.secdemantionArray.Main.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="queue.Main" />
@@ -83,8 +93,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.boxbox.Main" />
         <item itemvalue="애플리케이션.Main" />
+        <item itemvalue="애플리케이션.boxbox.Main" />
       </list>
     </recent_temporary>
   </component>

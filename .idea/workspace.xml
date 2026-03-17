@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31278443-9ca8-43d4-8b12-1904ed3f3558" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/gptQuiz/array/Diagonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gptQuiz/array/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review/Collection/loop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/coordinate/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodingTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/review/Collection/loop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review/Collection/loop/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -54,6 +52,7 @@
     "last_opened_file_path": "/home/donghyun/바탕화면/CodingTest",
     "onboarding.tips.debug.path": "/home/donghyun/바탕화면/JavaCodingTest/CodingTest/src/Main.java",
     "애플리케이션.Main.executor": "Run",
+    "애플리케이션.array.coordinate.Main.executor": "Run",
     "애플리케이션.boxbox.Main.executor": "Run",
     "애플리케이션.gptQuiz.array.Main.executor": "Run",
     "애플리케이션.review.Collection.Array.Main.executor": "Run",

@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31278443-9ca8-43d4-8b12-1904ed3f3558" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/array/num2566/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/basic/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/io/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/array/num10798/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/array/num2738/main/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gptQuiz/array/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gptQuiz/array/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +66,9 @@
     "애플리케이션.Main.executor": "Run",
     "애플리케이션.Solution.executor": "Run",
     "애플리케이션.array.coordinate.Main.executor": "Run",
+    "애플리케이션.baekjoon.array.num10798.main.Main.executor": "Run",
     "애플리케이션.baekjoon.array.num2566.Main.Main.executor": "Run",
+    "애플리케이션.baekjoon.array.num2738.main.Main.executor": "Run",
     "애플리케이션.baekjoon.basic.main.Main.executor": "Run",
     "애플리케이션.baekjoon.io.main.Main.executor": "Run",
     "애플리케이션.boxbox.Main.executor": "Run",

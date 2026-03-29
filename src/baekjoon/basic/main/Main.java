@@ -1,8 +1,6 @@
 package baekjoon.basic.main;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.util.*;
 
 public class Main {
@@ -64,5 +62,21 @@ public class Main {
         DFS
         이분 탐색 등등
         */
+
+        // 4. 출력 output
+        /*
+        출력도 입력과 마찬가지로 System.out.println();
+        대신 BufferedWriter를 사용하면 속도가 훨 배 빠르다
+        */
+        System.out.println();
+        System.out.print("dd");
+
+        BufferedWriter bufferedWriter = new BufferedWriter(new OutputStreamWriter(System.out));
+        int a = 10;
+        String strs = "안녕하";
+
+        bufferedWriter.write(a);
+        bufferedWriter.write(String.valueOf(strs));
+        bufferedWriter.flush();
     }
 }

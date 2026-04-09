@@ -12,7 +12,8 @@ public class Main {
         StringTokenizer rowCol = new StringTokenizer(br.readLine());
 
         // 행열 크기 n, m
-        int n = Integer.parseInt(rowCol.nextToken());
+        // rowCol = "3 3";
+        int n = Integer.parseInt(rowCol.nextToken()); //
         int m = Integer.parseInt(rowCol.nextToken());
 
         // 배열 2개
